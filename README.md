@@ -57,9 +57,9 @@
 ## ⚙️ GitHub Analytics
 <br>
 
-<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nijaalk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nijaalk&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nijaalk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nijaalk&layout=compact&langs_count=8&theme=radical"/>
 
-<img height="282em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nijaalk&theme=radical"/>
+<img height="260em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nijaalk&theme=radical"/>
 
 <!--
 **nijaalk/nijaalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
